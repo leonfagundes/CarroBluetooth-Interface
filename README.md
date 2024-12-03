@@ -103,7 +103,7 @@ python interface.py
 Abaixo está uma prévia de como a interface se apresenta durante o monitoramento do trajeto:
 
 - **Gráfico do trajeto em tempo real:**
-  ![Gráfico de exemplo](https://via.placeholder.com/800x400?text=Gráfico+de+Trajeto+do+Carrinho)
+  ![Gráfico de exemplo](https://github.com/leonfagundes27/Assets/blob/main/Images/print-interface-carro.png)
 
 ---
 
