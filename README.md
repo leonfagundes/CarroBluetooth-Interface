@@ -7,6 +7,14 @@ Este repositório é parte de um conjunto de três repositórios que compõem o 
 - [CarroBluetooth-App (clique aqui!)](https://github.com/leonfagundes/CarroBluetooth-App): Repositório do aplicativo responsável pelo controle Bluetooth do carrinho.
 - [CarroBluetooth-API (clique aqui!)](https://github.com/leonfagundes/CarroBluetooth-API): Repositório da API que conecta o carrinho ao banco de dados na nuvem.
 
+Confira abaixo vídeos demonstrativos do carrinho em funcionamento:
+
+[![Controle Bluetooth em Ação](https://img.youtube.com/vi/izKYEL1VnGo/hqdefault.jpg)](https://youtube.com/shorts/izKYEL1VnGo?feature=share "Controle Bluetooth em Ação")
+
+[![Movimentos do Carrinho](https://img.youtube.com/vi/lyGn77DkQ10/hqdefault.jpg)](https://youtube.com/shorts/lyGn77DkQ10?feature=share "Movimentos do Carrinho")
+
+[![Visualização do App](https://img.youtube.com/vi/1_qpdBCqRkQ/hqdefault.jpg)](https://youtube.com/shorts/1_qpdBCqRkQ?feature=share "Visualização do App")
+
 ---
 
 ## 🛠 Funcionalidades
@@ -104,7 +112,6 @@ Abaixo está uma prévia de como a interface se apresenta durante o monitorament
 
 - **Gráfico do trajeto em tempo real:**
   ![Gráfico de exemplo](https://github.com/leonfagundes27/Assets/blob/main/Images/print-interface-carro.png)
-
 ---
 
 ## Contribuição
